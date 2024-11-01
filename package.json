@@ -5,7 +5,7 @@
     "@slack/web-api": "^6.9.0",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "langchain": "^0.0.153",
+    "langchain": "^0.3.3",
     "openai": "^3.3.0"
   },
   "name": "askdev-chatbot",
